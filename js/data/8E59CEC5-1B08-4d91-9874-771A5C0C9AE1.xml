@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.1", "1", "Working hours", "EARoot/EA1/EA8.htm", "4.png", "", "", "{4994C95D-3D6C-42ce-BB33-CB4099670785}", "Package");
+tocTab[tocTab.length] = new Array("0.2", "1", "Closed days", "EARoot/EA2/EA16.htm", "4.png", "", "", "{2DDFD309-27B7-41f8-9EDC-06ED58275303}", "Package");
+tocTab[tocTab.length] = new Array("0.3", "1", "Staff members", "EARoot/EA3/EA24.htm", "4.png", "", "", "{17FE9418-575D-4df0-8B98-DC0ECDA48C00}", "Package");
+tocTab[tocTab.length] = new Array("0.4", "1", "Permission levels", "EARoot/EA4/EA33.htm", "4.png", "", "", "{F7B96390-FD98-4b1b-A0ED-39F79193CA7D}", "Package");

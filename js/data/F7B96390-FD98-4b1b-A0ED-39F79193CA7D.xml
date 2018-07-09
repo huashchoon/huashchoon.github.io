@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.4:1", "", "Permission levels", "EARoot/EA4/EA31.htm", "180.png", "44", "0", "", "Use Case diagram0","{0C6824D2-A052-42ab-9F5F-6FBB6A05C62D}");
+tocTab[tocTab.length] = new Array("0.4:2", "", "UC-035 - Manage permission levels", "EARoot/EA4/EA35.htm", "7.png", "E269", "0", "", "UseCase0","{453783C5-C262-4984-AECF-A3123080B740}");

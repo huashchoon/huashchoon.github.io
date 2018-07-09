@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.1:1", "", "Working hours", "EARoot/EA1/EA6.htm", "180.png", "41", "0", "", "Use Case diagram0","{0F17E042-4261-4c15-8E97-9D9AE08F480C}");
+tocTab[tocTab.length] = new Array("0.1:2", "", "UC-022 - Add working hours", "EARoot/EA1/EA10.htm", "7.png", "E255", "0", "", "UseCase0","{98871AA5-B7CE-4a4b-A99F-C52234D2C0FC}");
+tocTab[tocTab.length] = new Array("0.1:3", "", "UC-023 - Edit working hours", "EARoot/EA1/EA11.htm", "7.png", "E254", "0", "", "UseCase0","{7374BDB8-CD5A-4ffe-AE99-A082172CF47D}");
+tocTab[tocTab.length] = new Array("0.1:4", "", "«abstract» UC-024 - Manage working hours", "EARoot/EA1/EA12.htm", "7.png", "E252", "0", "", "UseCase0","{0F289642-06CA-4ad0-9774-F050B93BC51A}");
+tocTab[tocTab.length] = new Array("0.1:5", "", "UC-025 - View working hours", "EARoot/EA1/EA13.htm", "7.png", "E256", "0", "", "UseCase0","{D5420EFD-608B-4095-973D-10C196524F2E}");

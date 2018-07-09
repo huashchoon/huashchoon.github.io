@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.2:1", "", "Closed days", "EARoot/EA2/EA14.htm", "180.png", "42", "0", "", "Use Case diagram0","{65771A6C-D061-485a-9473-EC4A75DF0F93}");
+tocTab[tocTab.length] = new Array("0.2:2", "", "UC-026 - Add closed date", "EARoot/EA2/EA18.htm", "7.png", "E258", "0", "", "UseCase0","{19802697-96F6-4215-ABCD-0EB9F41A92E2}");
+tocTab[tocTab.length] = new Array("0.2:3", "", "UC-027 - Edit closed date", "EARoot/EA2/EA19.htm", "7.png", "E260", "0", "", "UseCase0","{D0F5286C-6E38-42f3-A4D2-05736E375EC9}");
+tocTab[tocTab.length] = new Array("0.2:4", "", "«abstract» UC-028 - Manage closed date", "EARoot/EA2/EA20.htm", "7.png", "E261", "0", "", "UseCase0","{E9D4BE9D-B969-4874-BE4B-61AAA445EA6B}");
+tocTab[tocTab.length] = new Array("0.2:5", "", "UC-029 - View closed dates", "EARoot/EA2/EA21.htm", "7.png", "E259", "0", "", "UseCase0","{9CB6884A-4266-41a2-AE81-415BB83515C2}");

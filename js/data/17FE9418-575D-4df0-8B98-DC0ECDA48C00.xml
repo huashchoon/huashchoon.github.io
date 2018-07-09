@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.3:1", "", "Staff members", "EARoot/EA3/EA22.htm", "180.png", "43", "0", "", "Use Case diagram0","{81464D0B-0170-407a-B436-AE5E3AF61652}");
+tocTab[tocTab.length] = new Array("0.3:2", "", "UC-030 - Add staff", "EARoot/EA3/EA26.htm", "7.png", "E267", "0", "", "UseCase0","{F1B5B869-1EA3-44c2-A858-7D7B5CB2EB23}");
+tocTab[tocTab.length] = new Array("0.3:3", "", "UC-031 - Edit staff", "EARoot/EA3/EA27.htm", "7.png", "E265", "0", "", "UseCase0","{41A2FF04-45CF-4f76-BA33-51B9AA45C2D0}");
+tocTab[tocTab.length] = new Array("0.3:4", "", "UC-032 - Send password reset", "EARoot/EA3/EA28.htm", "7.png", "E264", "0", "", "UseCase0","{40D929D0-7E7C-414e-AE26-E64EE0339691}");
+tocTab[tocTab.length] = new Array("0.3:5", "", "«abstract» UC-033 - Show staff form", "EARoot/EA3/EA29.htm", "7.png", "E266", "0", "", "UseCase0","{B789F3E0-9756-45cb-A244-EFD69DBD3EB0}");
+tocTab[tocTab.length] = new Array("0.3:6", "", "UC-034 - View staff members", "EARoot/EA3/EA30.htm", "7.png", "E263", "0", "", "UseCase0","{266AFE71-2CE7-4179-975E-914A81072771}");
